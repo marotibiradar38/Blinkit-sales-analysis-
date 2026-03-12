@@ -107,7 +107,7 @@ Blinkit-Sales-Dashboard
 ---
 ## Dashboard Preview
 
-![Blinkit Dashboard](images/dashboard.png)
+![Blinkit Dashboard](snapshot of blinkit dashboard.png)
 ---
 
 ## 🚀 How to Use
