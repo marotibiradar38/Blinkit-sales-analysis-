@@ -94,8 +94,7 @@ Comparison of revenue from:
 Blinkit-Sales-Dashboard
 │
 ├── dataset
-│   └── https://github.com/marotibiradar38/Blinkit-sales-analysis-/blob/main/BlinkIT%20Grocery%20Data%20Excel.xlsx
-│
+│   └── blinkit dataset
 ├── dashboard
 │   └── blinkit_dashboard.pbix
 │
@@ -108,7 +107,7 @@ Blinkit-Sales-Dashboard
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard](dashboard_preview.png)
+![Dashboard](https://github.com/marotibiradar38/Blinkit-sales-analysis-/blob/main/Screenshot%202026-01-19%20162401.png)
 
 ---
 
