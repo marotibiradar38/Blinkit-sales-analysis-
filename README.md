@@ -107,7 +107,7 @@ Blinkit-Sales-Dashboard
 ---
 ## Dashboard Preview
 
-![Blinkit Dashboard](snapshot of blinkit dashboard.png)
+![Blinkit Dashboard](https://github.com/marotibiradar38/Blinkit-sales-analysis-/blob/main/Screenshot%202026-01-19%20162401.png)
 ---
 
 ## 🚀 How to Use
