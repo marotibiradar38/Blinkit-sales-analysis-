@@ -105,10 +105,9 @@ Blinkit-Sales-Dashboard
 ```
 
 ---
+## Dashboard Preview
 
-## 📷 Dashboard Preview
-![Dashboard](Screenshot 2026-01-19 162401.png)
-
+![Blinkit Dashboard](images/dashboard.png)
 ---
 
 ## 🚀 How to Use
