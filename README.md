@@ -26,7 +26,7 @@ https://github.com/username/project-name/blob/main/dataset.csv
 https://github.com/username/project-name/blob/main/dashboard.pbix  
 
 🔹 Project Report  
-https://github.com/username/project-name/blob/main/report.pdf
+https://github.com/marotibiradar38/Blinkit-sales-analysis-/blob/main/Report%20of%20blinkit%20sales%20analysis.pdf
 ## 📈 Dashboard Features
 
 ### Key Performance Indicators (KPIs)
