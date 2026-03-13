@@ -23,7 +23,7 @@ The goal of this project is to demonstrate **data analysis, visualization, and b
 https://github.com/marotibiradar38/Blinkit-sales-analysis-/blob/main/BlinkIT%20Grocery%20Data%20Excel.xlsx
 
 🔹 Power BI Dashboard  
-https://github.com/username/project-name/blob/main/dashboard.pbix  
+https://github.com/marotibiradar38/Blinkit-sales-analysis-/blob/main/Screenshot%202026-01-19%20162401.png
 
 🔹 Project Report  
 https://github.com/marotibiradar38/Blinkit-sales-analysis-/blob/main/Report%20of%20blinkit%20sales%20analysis.pdf
