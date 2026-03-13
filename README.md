@@ -20,7 +20,7 @@ The goal of this project is to demonstrate **data analysis, visualization, and b
 ## 📂 Project Files
 
 🔹 Dataset  
-https://github.com/username/project-name/blob/main/dataset.csv  
+https://github.com/marotibiradar38/Blinkit-sales-analysis-/blob/main/BlinkIT%20Grocery%20Data%20Excel.xlsx
 
 🔹 Power BI Dashboard  
 https://github.com/username/project-name/blob/main/dashboard.pbix  
