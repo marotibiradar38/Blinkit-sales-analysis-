@@ -17,7 +17,16 @@ The goal of this project is to demonstrate **data analysis, visualization, and b
 - Data Visualization
 
 ---
+## 📂 Project Files
 
+🔹 Dataset  
+https://github.com/username/project-name/blob/main/dataset.csv  
+
+🔹 Power BI Dashboard  
+https://github.com/username/project-name/blob/main/dashboard.pbix  
+
+🔹 Project Report  
+https://github.com/username/project-name/blob/main/report.pdf
 ## 📈 Dashboard Features
 
 ### Key Performance Indicators (KPIs)
